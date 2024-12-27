@@ -28,10 +28,9 @@
 
 ###
 
-<h3 align="left">🌟    Tech Enthusiast   |   MERN Stack Developer |    App Developer  | <br>📍 Based in Pune | 🚀 Building impactful solutions in full-stack and AI!<br>_______________________________________________________________________________________________</h3>
+<h3 align="left">🌟    Tech Enthusiast   |   MERN Stack Developer |    App Developer  | <br>📍 Based in Pune | 🚀 Building impactful solutions in full-stack and AI!<br></h3>
 
 ###
-
 <p align="left">🏫 I’m a Computer Engineering student at COEP.<br><br>💻 Proficient in C, C++, MERN stack, SQL/NoSQL databases, and Python.<br><br>-  📧 How to reach me : priteshpagar9199@gmail.com<br><br>🌱 Currently learning advanced AI tools and exploring ISL-based solutions.<br><br>💡 Interested in building scalable applications and solving real-world problems. .</p>
 
 ###
