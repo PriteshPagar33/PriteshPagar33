@@ -39,7 +39,8 @@
 📧 How to reach me : priteshpagar9199@gmail.com<br><br>
 🌱 Currently learning advanced AI tools and exploring ISL-based solutions.<br><br>
 💡 Interested in building scalable applications and solving real-world problems.<br><br> 
-🌐 All of my projects are available on my [GitHub](https://github.com/PriteshPagar33).<br><br>
+🌐 All of my projects are available on my [GitHub](https://github.com/PriteshPagar33) <br><br>
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qCEd_-KZVhMMB5JJPG58O49ovQ3flSeI/view?usp=sharing) 
   
 ###
 
