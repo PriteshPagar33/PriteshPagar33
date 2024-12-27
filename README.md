@@ -100,8 +100,8 @@
   <img src="https://streak-stats.demolab.com?user=PriteshPagar33&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=3" height="175" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriteshPagar33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="175" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=PriteshPagar33&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="175" alt="stats graph"  />
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priteshpagar33" alt="priteshpagar33" /></a> </p>
 
+</p>
 </div>
 
 ###
