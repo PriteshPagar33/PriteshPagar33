@@ -46,7 +46,7 @@
 
 🌐 All of my projects are available on my [GitHub](https://github.com/PriteshPagar33). 
 
-📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1VKTH9Zls4HaOwQOZMLtvejpubw18jQJY/view?usp=sharing).  
+📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1O2nPbaMkofVhcGLqTo-lsQuYjufG_tlV/view?usp=sharing).  
 
 
 <h3 align="left">🛠 Language and tools</h3>
