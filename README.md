@@ -107,7 +107,13 @@
 </div>
 
 ###
+### 🐍 Snake Animation
+<p align="center">
+  <img src="https://github.com/]PriteshPagar33/]PriteshPagar33/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
+
+###
 
 </p>
 </div>
