@@ -107,9 +107,10 @@
 </div>
 
 ###
-### 🐍 Snake Animation
+### 🐍 Fun
+
 <p align="center">
-  <img src="https://github.com/]PriteshPagar33/]PriteshPagar33/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/PriteshPagar33/PriteshPagar33/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
 
