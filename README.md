@@ -32,7 +32,7 @@
 
 🌐 All of my projects are available on my [GitHub](https://github.com/PriteshPagar33). 
 
-📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1LbtXk6pc25iNQQl--_j30W8s-1vfdIMe/view?usp=sharing).  
+📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1L9FhnCLrKnDudRN8949PvcbwN-sqrhC-/view?usp=sharing).  
 
 
 
